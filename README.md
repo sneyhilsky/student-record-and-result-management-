@@ -5,6 +5,4 @@ It is a console-based application that maintains student records and can give yo
 <br>
 <pre><code>
 Devlopers:- Sneyhil s k yadav  
-  <br>
-            Aditya Raj Singh
 </code></pre>
